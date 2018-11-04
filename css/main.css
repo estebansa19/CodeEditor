@@ -1,0 +1,15 @@
+body{
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+#app{
+	height: 100vh;
+	widows: 100vh;
+}
+
+.monaco-editor{
+	height: 100%;
+	widows: 100%;
+}
